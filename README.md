@@ -28,6 +28,8 @@ QuizMaster is an interactive quiz application that allows users to test their kn
 - Result page:
   ![image](https://github.com/user-attachments/assets/785f9f22-ce25-4484-8737-7469cbad55c4)
 
+## Deployed link: https://react-i0pmg7z12-rajs-projects-02a1ec89.vercel.app/
+
 
 Happy quizzing! 🎉
 
