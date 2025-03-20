@@ -6,7 +6,7 @@ QuizMaster is an interactive quiz application that allows users to test their kn
 
 - 🏆 **Leaderboard** - Compete globally and track your ranking.
 - 📊 **Progress Tracking** - Monitor your quiz performance.
-- 🎨 **Modern UI** - Responsive and intuitive design.
+- 🎨 **Modern UI and Sound effects** - Responsive, intuitive design and interesting sound effects.
 - ⚡ **Optimized Performance** - Fast and smooth user experience.
 
 ## 🛠 Tech Stack - Frontend
@@ -18,8 +18,15 @@ QuizMaster is an interactive quiz application that allows users to test their kn
 - Lucide React
 
 ## 📷 Screenshots
-![Landing Page](https://via.placeholder.com/800x400?text=Landing+Page)
-![Leaderboard](https://via.placeholder.com/800x400?text=Leaderboard)
+
+- Landing page:
+  ![image](https://github.com/user-attachments/assets/de0eae5d-e3fd-4ac7-9167-a45aeb841378)
+
+- Quiz page:
+  ![image](https://github.com/user-attachments/assets/e3a0792e-f46b-4d57-a308-ed6e5f663884)
+
+- Result page:
+  ![image](https://github.com/user-attachments/assets/785f9f22-ce25-4484-8737-7469cbad55c4)
 
 
 Happy quizzing! 🎉
